@@ -1,0 +1,33 @@
+/*Extra Large Devices Layout: Up to 1200px*/
+
+@media only screen and (min-width: 1200px) {}
+
+
+
+/*Large Devices Layout: 1200px*/
+@media only screen and (min-width: 992px) and (max-width: 1199.98px) {}
+
+
+/* Medium Devices Layout: 991px */
+
+@media only screen and (max-width: 991.98px) {}
+
+
+/*Tablet Layout: 767px*/
+
+@media only screen and (max-width: 767.98px) {}
+
+
+/* Small Mobile Layout: 576px) */
+
+@media (max-width: 575.98px) {}
+
+
+
+/* Extra Small Mobile Layout: 480px. */
+
+@media only screen and (max-width: 479px) {}
+
+
+/* Extra Small Mobile Height */
+@media only screen and (max-height: 400px) {}
